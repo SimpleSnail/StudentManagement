@@ -1,0 +1,12 @@
+D:\csrepo\StudentManagement\StudentManagement.Dal\bin\Debug\net6.0\StudentManagement.Dal.deps.json
+D:\csrepo\StudentManagement\StudentManagement.Dal\bin\Debug\net6.0\StudentManagement.Dal.dll
+D:\csrepo\StudentManagement\StudentManagement.Dal\bin\Debug\net6.0\StudentManagement.Dal.pdb
+D:\csrepo\StudentManagement\StudentManagement.Dal\obj\Debug\net6.0\StudentManagement.Dal.csproj.AssemblyReference.cache
+D:\csrepo\StudentManagement\StudentManagement.Dal\obj\Debug\net6.0\StudentManagement.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\csrepo\StudentManagement\StudentManagement.Dal\obj\Debug\net6.0\StudentManagement.Dal.AssemblyInfoInputs.cache
+D:\csrepo\StudentManagement\StudentManagement.Dal\obj\Debug\net6.0\StudentManagement.Dal.AssemblyInfo.cs
+D:\csrepo\StudentManagement\StudentManagement.Dal\obj\Debug\net6.0\StudentManagement.Dal.csproj.CoreCompileInputs.cache
+D:\csrepo\StudentManagement\StudentManagement.Dal\obj\Debug\net6.0\StudentManagement.Dal.dll
+D:\csrepo\StudentManagement\StudentManagement.Dal\obj\Debug\net6.0\refint\StudentManagement.Dal.dll
+D:\csrepo\StudentManagement\StudentManagement.Dal\obj\Debug\net6.0\StudentManagement.Dal.pdb
+D:\csrepo\StudentManagement\StudentManagement.Dal\obj\Debug\net6.0\ref\StudentManagement.Dal.dll

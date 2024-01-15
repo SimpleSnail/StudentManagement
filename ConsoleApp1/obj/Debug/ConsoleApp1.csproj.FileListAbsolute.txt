@@ -1,0 +1,7 @@
+D:\csrepo\StudentManagement\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\csrepo\StudentManagement\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\csrepo\StudentManagement\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\csrepo\StudentManagement\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\csrepo\StudentManagement\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\csrepo\StudentManagement\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\csrepo\StudentManagement\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
